@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @del-gantz
-- 🌱 I’m currently learning about OS and TypeScript.
+- 🌱 I’m currently learning about Operating Systems, TypeScript and C.
 - 💞️ I’m looking to collaborate on projects I find meaningful.
 - 📫 How to reach me: del_gantz@proton.me
 
